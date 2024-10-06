@@ -1,5 +1,5 @@
-# Programación Multimedia y Dispositivos Móviles 2021/22
-Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.  
+# Programación Multimedia y Dispositivos Móviles 2024/25
+Programación Multimedia y Dispositivos Móviles. ISEN. Curso 2024-2025.  
   
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
@@ -17,10 +17,11 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
 8. [Activities, intents, estado](https://github.com/avidaldo/android-activities)
 9. [Calculadora](https://github.com/avidaldo/android-calculadora)
-10. [Examen 1.er. Trimestre](https://github.com/avidaldo/pmdm21-examen1t-adultos)
+<!-- 10. [Examen 1.er. Trimestre](https://github.com/avidaldo/pmdm21-examen1t-adultos) -->
+
 
 ### Navegación
-
+<!--
 11. [Toolbar y menús](https://github.com/avidaldo/android-menus)
 12. [Fragments](https://github.com/avidaldo/android-fragments)
 13. [Navegación](https://github.com/avidaldo/android-navigation)
@@ -28,21 +29,22 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 15. [Navegación pasando argumentos complejos](https://github.com/avidaldo/android-safeargs-parcelable)
 16. [NavigationDrawer](https://github.com/avidaldo/android-NavigationDrawer)
 17. [BottomNavigation](https://github.com/avidaldo/android-BottomNavigation)
-18. [Examen 2º Trimestre](https://github.com/avidaldo/examen2t-adultos)
+<!-- 18. [Examen 2º Trimestre](https://github.com/avidaldo/examen2t-adultos)-->
   
-  
-### ViewModel
 
+
+### ViewModel
+<!--
 19. [Tres en raya (patrones)](https://github.com/avidaldo/android-tictactoe)
 20. [Usos básicos de ViewModel](https://github.com/avidaldo/android-basic-mvvm)
 21. [Tipos de delegación "by viewModels()"](https://github.com/avidaldo/NavGraphViewModelProject)
 22. [Adivina la Palabra](https://github.com/avidaldo/android-GuessTheWord)
 23. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)  
-24. [Examen 2T Dual](https://github.com/avidaldo/examen2t-dual)
+<!-- 24. [Examen 2T Dual](https://github.com/avidaldo/examen2t-dual) -->
 
 
 ### Listas y adaptadores
- 
+<!--
 25. [Spinners](https://github.com/avidaldo/android-spinners2)
 26. [RecyclerView](https://github.com/avidaldo/android-RecyclerView)
 27. [RecyclerView con navegación y viewModel](https://github.com/avidaldo/RecyclerViewKotlin)
@@ -50,7 +52,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
   
   
    
-### [Playlist con vídeos de clase](https://www.youtube.com/playlist?list=PLb-SkCRlWLK1acuePd8K5LndNg8FXlfyq)
+<!-- ### [Playlist con vídeos de clase](https://www.youtube.com/playlist?list=PLb-SkCRlWLK1acuePd8K5LndNg8FXlfyq) -->
   
 ## Material externo  
 
